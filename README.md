@@ -1,24 +1,10 @@
 # product-and-cart
 
-## Project setup
-```
-npm install
-```
+## About *Me*
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Hello everyone. I am Neil Adams who graduate from Los Angeles Pacific University just before. I have some experience with React and other frontend javascript libraries, but not *Vue.js*.
+So I just tried to write a very simple project on my own. Please, don't laugh at me and give me your hand.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## About project
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+* This project is a simple shopping project which follows *Gwendolyn Faraday*'s video tutorial. Actually, there were some problems in video such as version of the Vue Cli and other dependency problems. Anyway, I can complete this project as starting Vue.js.
